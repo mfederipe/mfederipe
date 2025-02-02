@@ -1,18 +1,16 @@
-## <welcome> 👋
+## hi there, i'm marison! <3
 
-my name is marison, and i'm an aspiring software engineer at brainstation
-i'm currently learning html, css/scss, javascript
-...and i know a bit about python and r :)
+![mfederipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfederipe&show_icons=true&theme=synthwave)
 
-i'm super into quantum physics and the metaphysical realm 🪐
-and don't forget astrology (guess my sign ..?)
+i'm an aspiring software engineer at brainstation with a background in health sciences
 
-i'm looking to contribute more to open source code to build my skills,
-and become the best coder ever!
+i'm currently learning html, css/scss, javascript ...and i know a bit about python and r :)
 
-you can reach me at marisonfdrp@gmail.com 
+i'm super into quantum physics and the metaphysical realm 🪐 don't forget astrology (guess my sign ..?)
 
-byebye for now! ❤️
+you can reach me on linkedin! 
+
+byebye for now!
 
 
 <!--
