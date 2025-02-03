@@ -1,7 +1,7 @@
 ## hi there, i'm marison! <3
 
 ### 💫 a brief biography:
-🤍 i'm an aspiring software engineer at brainstation with a background in health sciences<br>🤍 i'm currently learning html, css/scss, javascript and i know a bit about python and r :)<br>🤍 fun fact: i'm super into quantum physics and the metaphysical realm 🪐 <br>🤍 ...and as you can probably guess, astrology too (try guessing my sign! hint: cold)<br>🤍 if you would like to connect, you can reach me on linkedin (link below)! <br><br>happy scrolling! bye bye for now
+♡ i'm an aspiring software engineer at brainstation with a background in health sciences<br>♡ i'm currently learning html, css/scss, javascript and i know a bit about python and r :)<br>♡ fun fact: i'm super into quantum physics and the metaphysical realm 🪐 <br>♡ ...and as you can probably guess, astrology too (try guessing my sign! hint: cold)<br>♡ if you would like to connect, you can reach me on linkedin (link below)! <br><br>happy scrolling! bye bye for now
 
 
 ### 🌐 socials:
@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfederipe&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 github trophies:
-![](https://github-profile-trophy.vercel.app/?username=mfederipe&theme=synthwave&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mfederipe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ dev quote of the day!
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
