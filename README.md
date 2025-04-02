@@ -3,6 +3,7 @@
 ### A Bit About Me:
 I'm a Software Engineer who entered tech after starting in Health Sciences. Over the course of my career, I’ve become comfortable working in both front-end and back-end development, but front-end is where I truly shine. I love being able to express my artistic skills by creating user-friendly, visually appealing interfaces - a side of me I hadn’t tapped into in a long time! Looking ahead, I’m ready to take on new challenges, build fresh projects, and keep pushing the boundaries of what I can do. The tech world offers endless learning opportunities, and I'm taking them on one line of code at a time!
 <br>♡ Proficient in HTML5, CSS, SASS, JavaScript, React, Node.js, Express, MySQL
+<br>♡ Right now, I'm working on developing my personal website
 <br>♡ Outside of coding, I’m learning more about quantum physics, the metaphysical realm, and ancient civilizations
 <br>♡ Feel free to reach out via LinkedIn or email if you'd like to chat or collaborate!
 
