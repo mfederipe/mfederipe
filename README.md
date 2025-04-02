@@ -35,6 +35,8 @@ Resify is a mobile-friendly app designed to help job seekers enhance their resum
 ![](https://github-profile-trophy.vercel.app/?username=mfederipe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+![snake gif](https://github.com/mfederipe/mfederipe/blob/output/github-snake-dark.svg)
+
 #### Support Me:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/marisonfederipe) 
 
